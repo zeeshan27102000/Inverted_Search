@@ -1,11 +1,3 @@
-/*
-Documentation
-Name: Syed Zeeshan Ulla
-Date: 00/00/22
-Description:
-Input:
-Output:
-*/
 
 #include "main.h"
 
